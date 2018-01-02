@@ -8,11 +8,11 @@ Lab颜色空间的三个分量L、a、b的取值范围不一样，L\[0 100\] ,�
 
 
 
-![1](C:\\Users\\付学明\\Desktop\\1.png)
+![1](https://github.com/windrise/myfirstOpenCV/blob/master/Raw/1.png)
 
 
 
-![2](C:\Users\付学明\Desktop\2.png)
+![2](https://github.com/windrise/myfirstOpenCV/blob/master/Raw/2.png)
 
 > #按照论文的方法Wl=Wa=Wb=1/3，本人并未得到很好的效果，我是直接把这单个量都取1，效果图在Imgs文件夹下
 
